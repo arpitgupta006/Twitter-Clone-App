@@ -1,0 +1,7 @@
+As I reflect on my assignment in MySql , I am filled with a sense of accomplishment and growth. This project has provided me with an opportunity to delve into the fascinating world of web development and explore the intricacies of Bootstrap.
+
+At the outset, I approached the assignment with a mixture of excitement and trepidation. While I had some prior knowledge of these technologies, the assignment pushed me to expand my understanding and dive deeper into their capabilities. 
+
+PS node files are removed to reduce of project otherwise it wsould be too big to upload
+
+please install node (npm install) in both frontend and backend folder to run project
